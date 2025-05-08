@@ -1,1 +1,3 @@
-This is the filr from developer
+This is the file from developer
+This file is successfully added to Remote repositor 
+message by github
